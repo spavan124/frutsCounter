@@ -1,0 +1,30 @@
+.bg-container {
+  background-color: '#ffd569';
+  height: 100vh;
+  background-size: cover;
+}
+.card-1 {
+  background-color: #ffffff;
+  height: 60vh;
+  width: 300px;
+}
+.heading {
+  color: #000000;
+  font-size: 50px;
+  text-align: center;
+}
+.span {
+  color: #ffd569;
+  font-size: 50px;
+}
+.button {
+  background-color: #007bff;
+  color: white;
+  height: 100px;
+  width: 200px;
+}
+.imag-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
